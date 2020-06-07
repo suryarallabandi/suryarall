@@ -272,6 +272,9 @@ nav ul ul ul li{
   font-size: 40px;
 }
 @media screen and (max-width: 600px) {
+  .contact_center h1,h4,span,p{
+    font-family: 'Gentium Basic', serif;
+  }
   .contact_center h1{
     font-size: 30px;
   }
